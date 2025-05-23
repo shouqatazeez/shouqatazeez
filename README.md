@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **mdshouqatazeez@gmail.com**
 
-- 📄 Know about my experiences: [https://acesse.one/thJ68](https://acesse.one/thJ68)
+- 📄 Know about my experiences: [https://rb.gy/nnpt5e](https://rb.gy/nnpt5e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
