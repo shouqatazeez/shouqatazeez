@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shouqat Azeez</h1>
 <h3 align="center">Aspiring full-stack developer with a strong foundation in modern frontend technologies. Frontend developer by passion, student by day, learner always.</h3>
 
-- 🔭 I recently completed: [Book Nest - Online Book Listing App](https://book-nest-5.vercel.app/)
+- 🔭 I recently completed: [ ReceiptPro – Smart Receipt Management App](https://receipt-organizer-bice.vercel.app/)
 
 - 🌱 I’m currently learning ****React.js**, **Tailwind CSS**, and exploring **Full Stack Development****
 
