@@ -9,7 +9,7 @@
 
 - 🎯 Objective: **Final-year B.Tech CSE student passionate about web development, eager to gain real-world experience through internships and collaborative projects.**
 
-- 👨‍💻 All of my projects are available at: [https://myportfolio-website-pi.vercel.app/](https://myportfolio-website-pi.vercel.app/)
+- 👨‍💻 All of my projects are available at: [https://myportfolio-website-pi.vercel.app/](https://mohammadshouqatazeez.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript, Frontend Development**
 
