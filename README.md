@@ -3,7 +3,7 @@
 
 - 🔭 I recently completed: [ ReceiptPro – Smart Receipt Management App](https://receipt-organizer-bice.vercel.app/)
 
-- 🌱 I’m currently learning ****React.js**, **Tailwind CSS**, and exploring **Full Stack Development****
+- 🌱 I’m currently learning ****React.js**, **Tailwind CSS**, and exploring **Full Stack Development***
 
 - 👯 I’m looking to collaborate on **Open Source & Frontend Projects**
 
