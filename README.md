@@ -1,43 +1,53 @@
 # Hey, I'm Shouqat!
 
-Full-stack developer focused on building high-performance web applications, clean API designs, and solving practical, user-centric problems. Currently pursuing a B.Tech in Computer Science Engineering.
+Full-stack developer focused on building scalable web applications, secure backend systems, and AI-powered solutions. Passionate about solving real-world problems through clean architecture, intuitive user experiences, and modern web technologies. Currently pursuing a B.Tech in Computer Science Engineering.
 
----
 
 ## Featured Projects
 
-### [HireTrack](https://myhiretrack.vercel.app/)
-A full-stack job application tracking platform designed to replace messy, disorganized spreadsheets with a centralized, relational management dashboard.
-* **Core Architecture:** React 19 + FastAPI (Python) + PostgreSQL (with SQLite for local development).
-* **Key Technical Implementations:**
-  * Created a secure REST API with JWT authentication, bcrypt password hashing, and strict user-specific database isolation.
-  * Engineered a real-time analytics dashboard presenting status breakdowns (Applied, Interviewing, Offered, etc.) and submissions history.
-  * Designed client-side search indexing and multi-status state filters for instant UI reactivity.
+### <a href="https://myhiretrack.vercel.app/"><u>HireTrack</u></a>
 
-### [DeptHub](https://depthub.vercel.app/)
+An AI-powered job application tracking platform designed to replace disorganized spreadsheets with a smart, centralized dashboard.
+
+* **Core Architecture:** React 19 + FastAPI (Python) + PostgreSQL (Neon) + Google Gemini AI.
+* **Key Technical Implementations:**
+
+  * Engineered a secure REST API with JWT authentication, bcrypt password hashing, and strict user-scoped database isolation.
+  * Integrated Google Gemini AI for resume-to-job match scoring, cover letter generation, and interview coaching with AI-powered feedback.
+  * Developed a real-time analytics dashboard featuring 7-day activity charts, application pipelines, and Google Calendar integration for interview reminders.
+  * Implemented PDF resume parsing, CSV export, drag-and-drop uploads, and client-side search with multi-status filtering.
+
+### <a href="https://depthub.vercel.app/"><u>DeptHub</u></a>
+
 A secure, role-based academic resource sharing platform designed to help students and faculty members organize and share educational materials.
+
 * **Core Architecture:** React + Firebase Authentication + Supabase.
 * **Key Technical Implementations:**
-  * Implemented role-based access control (RBAC) with protected client routes, separating dashboards and permissions for Students, Faculty, and Admins.
-  * Integrated responsive document upload, search indexing, and secure asset delivery.
 
-### [ReceiptPro](https://receipt-organizer-bice.vercel.app)
-A digital receipt archiving vault that helps users upload, organize, and search receipts.
+  * Implemented role-based access control (RBAC) with protected client routes, separating dashboards and permissions for Students, Faculty, and Admins.
+  * Developed document upload, search indexing, and secure asset delivery workflows.
+  * Built responsive cross-device interfaces for resource management and content sharing.
+
+### <a href="https://receipt-organizer-bice.vercel.app"><u>ReceiptPro</u></a>
+
+A digital receipt management vault that helps users upload, organize, and search receipts.
+
 * **Core Architecture:** React + Tailwind CSS + Supabase (Auth, DB, and Storage).
 * **Key Technical Implementations:**
-  * Integrated drag-and-drop receipt uploading with secure cloud hosting via Supabase Storage buckets.
-  * Implemented an advanced data inspector modal featuring image scaling, inline metadata editing (merchants, dates, amounts), and custom category tags.
-  * Designed complex PostgreSQL querying filters sorting by amount range, date ranges, and tags.
+
+  * Integrated drag-and-drop receipt uploads with secure cloud hosting through Supabase Storage.
+  * Implemented advanced receipt inspection tools featuring image scaling, inline metadata editing, and custom category tags.
+  * Designed complex PostgreSQL filtering and sorting by amount ranges, date ranges, and custom tags.
 
 ---
 
 ## Technical Capabilities
 
-* **Programming Languages:** JavaScript (ES6+), Python, SQL, Java, HTML5, CSS3
-* **Frontend Development:** React.js, Tailwind CSS (v4), Radix UI, Shadcn/UI, React Router, React Hook Form, Zod
-* **Backend Development:** FastAPI, SQLAlchemy (ORM), Pydantic validation, Alembic migrations, REST API design
-* **Databases & Cloud Solutions:** PostgreSQL, SQLite, Supabase, Firebase (Auth/Firestore), Vercel
-* **Tools & Workflows:** Git, GitHub, Vite, npm, Postman API testing, Swagger UI / ReDoc
+* **Languages:** JavaScript, Python, SQL, Java
+* **Frontend:** React.js, Tailwind CSS, Shadcn/UI, Framer Motion, Recharts
+* **Backend:** FastAPI, SQLAlchemy, JWT Authentication, REST API Design, Google Gemini AI
+* **Databases & Storage:** PostgreSQL, Neon, Supabase, Firebase, Cloudinary
+* **Tools & Platforms:** Git, GitHub, Postman, Vercel
 
 ---
 
