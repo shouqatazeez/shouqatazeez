@@ -16,6 +16,8 @@ An AI-powered job application tracking platform designed to replace disorganized
   * Integrated Google Gemini AI for resume-to-job match scoring, cover letter generation, and interview coaching with AI-powered feedback.
   * Developed a real-time analytics dashboard featuring 7-day activity charts, application pipelines, and Google Calendar integration for interview reminders.
   * Implemented PDF resume parsing, CSV export, drag-and-drop uploads, and client-side search with multi-status filtering.
+  * Built an AI Referral Message Generator that produces personalized Email/DM outreach and LinkedIn connection notes, tailored to the user's resume and target job description.
+
 
 ### <a href="https://depthub.vercel.app/"><u>DeptHub</u></a>
 
