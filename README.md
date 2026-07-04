@@ -48,9 +48,9 @@ A digital receipt management vault that helps users upload, organize, and search
 
 * **Languages:** JavaScript, TypeScript, Python, SQL, Java
 * **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn/UI, Framer Motion, Recharts
-* **Backend:** Next.js API Routes, FastAPI, Prisma, SQLAlchemy, JWT Authentication, REST API Design, Google Gemini AI
+* **Backend:** Next.js API Routes, FastAPI, Prisma, SQLAlchemy, NextAuth, Google Gemini AI
 * **Databases & Storage:** PostgreSQL, Neon, Supabase, Firebase, Cloudinary
-* **Tools & Platforms:** Git, GitHub, Postman, Vercel
+* **Tools & Platforms:** Git, GitHub, Postman, Vercel, Resend
 
 ---
 
