@@ -2,7 +2,6 @@
 
 Full-stack developer building scalable web applications, secure backend systems, and AI-powered solutions. I focus on clean architecture, real-world problem solving, and modern web technologies. B.Tech in Computer Science Engineering (2026).
 
-
 ## Featured Projects
 
 ### <a href="https://myhiretrack.vercel.app/"><u>HireTrack</u></a>
@@ -19,11 +18,9 @@ An AI-powered job application tracking platform designed to replace disorganized
 
 ### <a href="https://myinvotrack.vercel.app/"><u>InvoTrack</u></a>
 
-A full-stack invoice management system for small businesses with customer management, billing automation, and revenue analytics.
 A full-stack invoice management system for small businesses — handles customers, products, billing with tax/discount, PDF invoices, AI payment reminders, and revenue tracking.
 
 * **Core Architecture:** Next.js 16 (App Router) + TypeScript + Prisma 7 + PostgreSQL (Neon) + NextAuth + Google Gemini AI + shadcn/ui.
-
 * **Key Technical Implementations:**
   * Built a complete billing workflow with multi-line item invoices, automatic GST/tax calculation, discount handling, and sequential numbering (INV-001, INV-002).
   * Implemented server-side PDF generation using jsPDF with branded headers, styled line-item tables, and color-coded status badges.
@@ -32,15 +29,18 @@ A full-stack invoice management system for small businesses — handles customer
   * Engineered multi-tenant data isolation with userId-scoped queries, JWT session management, and route-level middleware protection.
   * Added CSV export, search/filter by status, and status lifecycle management (UNPAID → PAID/OVERDUE) across full CRUD for customers, products, and invoices.
 
-### <a href="https://receipt-organizer-bice.vercel.app"><u>ReceiptPro</u></a>
+### <a href="https://jobhive-gamma.vercel.app"><u>JobHive</u></a>
 
-A digital receipt management vault that helps users upload, organize, and search receipts.
+A full-stack job board platform connecting job seekers with employers through role-based dashboards, real-time search, and applicant management.
 
-* **Core Architecture:** React + Tailwind CSS + Supabase (Auth, DB, and Storage).
+* **Core Architecture:** Next.js 16 (App Router) + TypeScript + React 19 + Prisma 7 + PostgreSQL (Neon) + NextAuth + shadcn/ui + Tailwind CSS 4.
 * **Key Technical Implementations:**
-  * Integrated drag-and-drop receipt uploads with secure cloud hosting through Supabase Storage.
-  * Implemented advanced receipt inspection tools featuring image scaling, inline metadata editing, and custom category tags.
-  * Designed complex PostgreSQL filtering and sorting by amount ranges, date ranges, and custom tags.
+  * Designed a role-based access system (Seeker/Employer) with JWT sessions, protected routes, and role-aware API endpoints.
+  * Built a job search engine with multi-filter support (keyword, location, category, job type) and server-side query composition.
+  * Implemented an employer applicant management panel with inline Accept/Reject actions and real-time status updates via PATCH API.
+  * Engineered real-time form validation with on-blur + while-typing feedback for salary format enforcement.
+  * Developed a responsive landing page with featured jobs grid, latest jobs list, company directory, and category browsing.
+  * Set up a GitHub Actions CI/CD pipeline with lint, build, and automated Vercel production deployments on push to main.
 
 ---
 
@@ -50,7 +50,7 @@ A digital receipt management vault that helps users upload, organize, and search
 * **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn/UI, Framer Motion, Recharts
 * **Backend:** Next.js API Routes, FastAPI, Prisma, SQLAlchemy, NextAuth, Google Gemini AI
 * **Databases & Storage:** PostgreSQL, Neon, Supabase, Firebase, Cloudinary
-* **Tools & Platforms:** Git, GitHub, Postman, Vercel, Resend
+* **Tools & Platforms:** Git, GitHub, GitHub Actions, Postman, Vercel, Resend
 
 ---
 
