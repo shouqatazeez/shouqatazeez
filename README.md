@@ -10,11 +10,11 @@ An AI-powered job application tracking platform designed to replace disorganized
 
 * **Core Architecture:** React 19 + FastAPI (Python) + PostgreSQL (Neon) + Google Gemini AI.
 * **Key Technical Implementations:**
-  * Designed secure REST APIs with JWT authentication, bcrypt password hashing, and strict user-scoped database isolation.
-  * Integrated Google Gemini AI for resume-to-job match scoring, cover letter generation, and AI-powered interview coaching.
-  * Developed a real-time analytics dashboard featuring 7-day activity charts, application pipelines, and Google Calendar integration for interview reminders.
-  * Implemented PDF resume parsing, CSV export, drag-and-drop uploads, and real-time search with multi-status filtering.
-  * Built an AI Referral Message Generator that creates personalized Email, DM, and LinkedIn connection messages tailored to the user's resume and target job description.
+  * Designed secure REST APIs with JWT authentication, bcrypt hashing, user-scoped DB isolation, rate limiting, and input validation to prevent abuse.
+  * Integrated Google Gemini AI for match scoring, cover letter generation, interview coaching with answer feedback, and referral message generation (Email, DM, LinkedIn formats).
+  * Built a real-time analytics dashboard with 7-day activity charts, application pipelines, Google Calendar integration, PDF parsing, CSV export, and drag-and-drop uploads.
+  * Optimized frontend with lazy loading, TanStack Query caching, optimistic UI updates, Framer Motion page transitions, and Vite chunk splitting — reducing initial bundle by 77%.
+  * Hardened backend with async Gemini calls, DB-level AI result caching (20s → instant on repeat), GZip compression, connection pooling, and an Error Boundary for crash recovery.
 
 ### <a href="https://myinvotrack.vercel.app/"><u>InvoTrack</u></a>
 
