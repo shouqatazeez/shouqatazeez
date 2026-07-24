@@ -1,6 +1,7 @@
 # Hey, I'm Shouqat!
 
-Full-stack developer building scalable web applications, secure backend systems, and AI-powered solutions. I enjoy solving real-world problems through clean architecture and modern web technologies. Currently pursuing a B.Tech in Computer Science Engineering (2026).
+Full-stack developer building scalable web applications, secure backend systems, and AI-powered solutions. I enjoy solving real-world problems through clean architecture and modern web technologies. B.Tech in Computer Science Engineering (2026).
+
 
 ## Featured Projects
 
@@ -46,11 +47,11 @@ A full-stack job board platform connecting job seekers and employers through rol
 
 ## Technical Capabilities
 
-* **Languages:** JavaScript, TypeScript, Python, SQL, Java
-* **Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui, Framer Motion, Recharts
+* **Languages:** JavaScript, TypeScript, Python, SQL, Java, C
+* **Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui, Framer Motion, TanStack Query, Recharts
 * **Backend:** FastAPI, Next.js API Routes, Prisma, SQLAlchemy, NextAuth, Google Gemini AI
-* **Databases & Storage:** PostgreSQL, Neon, Supabase, Firebase, Cloudinary
-* **Tools & Platforms:** Git, GitHub, GitHub Actions, Postman, Vercel, Resend
+* **Databases & Storage:** PostgreSQL, MySQL, NeonDB, Supabase, Firebase, Cloudinary
+* **Tools & Platforms:** Git, GitHub, GitHub Actions, Postman, Vercel, Google Antigravity, VS Code
 
 ---
 
