@@ -9,7 +9,7 @@ Full-stack developer building scalable web applications, secure backend systems,
 
 An AI-powered job application tracking platform designed to replace disorganized spreadsheets with a smart, centralized dashboard.
 
-* **Core Architecture:** React 19 + FastAPI (Python) + PostgreSQL (Neon) + Google Gemini AI.
+* **Core Architecture:** React 19 + FastAPI (Python) + PostgreSQL (NeonDB) + Google Gemini AI.
 * **Key Technical Implementations:**
   * Designed secure REST APIs with JWT authentication, bcrypt hashing, user-scoped DB isolation, rate limiting, and input validation to prevent abuse.
   * Integrated Google Gemini AI for match scoring, cover letter generation, interview coaching with answer feedback, and referral message generation (Email, DM, LinkedIn formats).
@@ -21,7 +21,7 @@ An AI-powered job application tracking platform designed to replace disorganized
 
 A full-stack invoice management system for small businesses that streamlines customer management, invoicing, AI-powered payment reminders, and revenue tracking.
 
-* **Core Architecture:** Next.js 16 (App Router) + TypeScript + Prisma 7 + PostgreSQL (Neon) + NextAuth + Google Gemini AI + shadcn/ui.
+* **Core Architecture:** Next.js 16 (App Router) + TypeScript + Prisma 7 + PostgreSQL (NeonDB) + NextAuth + Google Gemini AI + shadcn/ui.
 * **Key Technical Implementations:**
   * Built a complete billing workflow with multi-line invoices, automatic GST/tax calculation, discount handling, and sequential invoice numbering (INV-001, INV-002).
   * Generated branded PDF invoices using jsPDF with styled layouts, line-item tables, and color-coded status badges.
@@ -34,7 +34,7 @@ A full-stack invoice management system for small businesses that streamlines cus
 
 A full-stack job board platform connecting job seekers and employers through role-based dashboards, intelligent search, and applicant management.
 
-* **Core Architecture:** Next.js 16 (App Router) + TypeScript + React 19 + Prisma 7 + PostgreSQL (Neon) + NextAuth + shadcn/ui + Tailwind CSS 4.
+* **Core Architecture:** Next.js 16 (App Router) + TypeScript + React 19 + Prisma 7 + PostgreSQL (NeonDB) + NextAuth + shadcn/ui + Tailwind CSS 4.
 * **Key Technical Implementations:**
   * Designed a role-based access system (Seeker/Employer) with JWT authentication, protected routes, and role-aware API endpoints.
   * Built a job search engine supporting keyword, location, category, and job type filtering with server-side query composition.
