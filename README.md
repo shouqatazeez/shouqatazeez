@@ -50,7 +50,7 @@ A full-stack job board platform connecting job seekers and employers through rol
 * **Languages:** JavaScript, TypeScript, Python, SQL, Java, C
 * **Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui, Framer Motion, TanStack Query, Recharts
 * **Backend:** FastAPI, Next.js API Routes, Prisma, SQLAlchemy, NextAuth, Google Gemini AI
-* **Databases & Storage:** PostgreSQL, MySQL, NeonDB, Supabase, Firebase
+* **Databases & Storage:** PostgreSQL, MySQL, NeonDB, Supabase, Firebase, Cloudinary
 * **Tools & Platforms:** Git, GitHub, GitHub Actions, Postman, Vercel, Google Antigravity, VS Code
 
 ---
