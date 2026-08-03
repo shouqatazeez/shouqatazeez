@@ -43,7 +43,7 @@ A full-stack job board platform connecting job seekers and employers through rol
   * Developed a responsive landing page with featured jobs, latest openings, company directory, and category browsing.
   * Configured a GitHub Actions CI/CD pipeline for automated linting, builds, and Vercel production deployments.
 
----
+--
 
 ## Technical Capabilities
 
